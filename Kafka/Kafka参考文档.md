@@ -10,4 +10,6 @@
 
 [在Asp.NetCore中集成Kafka](https://blog.csdn.net/sD7O95O/article/details/89596685)
 
+[Kafka的Topic和Partition](https://blog.csdn.net/weixin_38750084/article/details/82942564)
+
 VSCode插件: Kafka
